@@ -4,7 +4,7 @@ import random
 #Atividade N1
 
 #Grupo G16:
-#Alunos: Guilherme Fernandes Mourão Maturana- RA: 21538078 / Guatavo Pinheiro - RA: 21526087/ Guilherme Cardozo - RA: 21574116
+#Alunos: Guilherme Fernandes Mourão Maturana- RA: 21538078 / Gustavo Pinheiro - RA: 21526087/ Guilherme Cardozo - RA: 21574116
 
 caminhoPv = 0  
 sala = 1        
