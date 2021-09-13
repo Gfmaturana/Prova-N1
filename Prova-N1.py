@@ -12,7 +12,7 @@ interacaoCam = 0
 
 while True: 
     if sala == 9 and interacaoCam <7:
-        print("\nVocês completaram o labirinto com {} interações, você e sua guilda chegaram ao destino final, parabens!".format(interacaoCam))
+        print("\nVocês completaram o labirinto com {} interações, você e sua guilda chegaram ao destino final, parabens!!".format(interacaoCam))
         break
     elif sala == 9 and interacaoCam >= 7:
         print("\n\tVocê levou 7 ou mais interações para chegar na sala 9")
